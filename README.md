@@ -25,7 +25,7 @@ Este repositório apresenta dois arquivos (`historia.java` e `historia.js`) que 
 
 ---
 
-## 📜 Exemplos de Código
+## 📜 Exemplo de Código
 
 ### **Java:**
 ```java
