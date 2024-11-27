@@ -3,13 +3,15 @@ public class Main {
     public static void main(String[] args) {
     int numero = 10; //Declaração de uma variável inteira
     System.out.println(numero);
+    }
+    }
 
 // Sintaxe e Estruturas de Controle
-    public class Main {
-        public static void main(String[] args) {
-        System.out.println("Olá, Mundo!"); 
-        }
-        }
+public class Main {
+    public static void main(String[] args) {
+    System.out.println("Olá, Mundo!"); 
+    }
+    }
 
 // Funções e Métodos
 public class Main {
